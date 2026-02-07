@@ -1,0 +1,8 @@
+name: RefontPee
+version: '${project.version}'
+main: ru.lostone.refontpee.RefontPee
+api-version: '1.16'
+commands:
+  pee:
+    description: Включить/выключить режим писания
+    usage: /pee
