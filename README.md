@@ -31,4 +31,4 @@
 - сила звуков
 
 ## Лицензия
-Все права защищены (All Rights Reserved).
+Все права защищены (All Rights Reserved)
